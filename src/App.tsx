@@ -1,26 +1,28 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState,useEffect } from 'react';
 import './App.css';
+import {BrowserRouter,Route,Routes} from 'react-router-dom'
 
-function App() {
+// pages
+import Home from './pages/Home';
+import Search from './pages/Search';
+import Favaorite from './pages/Favaorite';
+import Playlists from './pages/Playlists';
+// import ScrollToTop from './pages/ScrollToTop';
+
+const App=()=>{
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Routes>
+       <Route path='/' element={<Home/>} />
+        <Route path='/search' element={<Search/>}/>
+        <Route path='/favourite' element={<Favaorite/>} />
+        <Route path='/playlists' element={<Playlists/>} />
+      </Routes>
+    </BrowserRouter>
   );
+
+
 }
 
 export default App;
