@@ -1,46 +1,51 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Music Hub
 
-## Available Scripts
+The Music Hub application is a music streaming web application that allows users to listen to their favorite music
 
-In the project directory, you can run:
 
-### `npm start`
+## Technologies Used 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The Music Hub application is built using the following technologies:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+1) ReactJs
+2) TypeScript
+3) Bootstrap
+## API Used
 
-### `npm test`
+The Music Hub application uses the following API:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://www.last.fm/api
+## Features
 
-### `npm run build`
+1) Search for artists and tracks
+2) View top artists and tracks
+3) Add artists and tracks to favorites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Future Improvements
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Here are some future improvements that can be made to the Music Hub application:
 
-### `npm run eject`
+1) Improve search functionality with more filters and sorting options
+2) Implement a music player with playback controls
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Demo
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+UI screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+https://imgur.com/uVqD9qQ
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+https://imgur.com/iQNmW31
 
-## Learn More
+https://imgur.com/alSBwDH
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+https://imgur.com/D2wMEkf
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://imgur.com/jJNx70d
+
+https://imgur.com/cj9Ua4y
+
+
+
+
