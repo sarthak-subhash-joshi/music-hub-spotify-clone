@@ -34,17 +34,12 @@ Here are some future improvements that can be made to the Music Hub application:
 
 UI screenshots
 
-https://imgur.com/uVqD9qQ
-
-https://imgur.com/iQNmW31
-
-https://imgur.com/alSBwDH
-
-https://imgur.com/D2wMEkf
-
-https://imgur.com/jJNx70d
-
-https://imgur.com/cj9Ua4y
+![mh1](https://user-images.githubusercontent.com/123321862/235454198-15e49caf-f9fd-46d6-89db-ca1f472d3300.png)
+![mh2](https://user-images.githubusercontent.com/123321862/235454208-729f6c2e-71fc-4e64-b993-570692d242b0.png)
+![mh3](https://user-images.githubusercontent.com/123321862/235454214-c057b054-86a2-494c-ac2d-79cb4fd7c184.png)
+![mh4](https://user-images.githubusercontent.com/123321862/235454221-7cdc0740-f662-4cc1-abae-703756df71cc.png)
+![mh5](https://user-images.githubusercontent.com/123321862/235454228-190712ec-3e73-43bd-b792-09476706d166.png)
+![mh6](https://user-images.githubusercontent.com/123321862/235454236-ddeb32be-c1db-4244-bd6a-61dbf9572cd3.png)
 
 
 
